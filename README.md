@@ -29,16 +29,16 @@ A hands-on defensive lab exploring security controls for AI and RAG applications
 
 **Repository:** [security-engineering-labs](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/ai-security)
 
-### Broader portfolio — in progress
-I am building practical reference implementations and technical write-ups across:
+### Security engineering portfolio
 
-- Cloud security architecture and AWS security baselines
-- Kubernetes and container runtime security
-- Secure DevSecOps and software supply-chain controls
-- Vulnerability management and remediation automation
-- AI/LLM security testing and threat modelling
+Explore practical reference implementations and architecture notes across:
 
-Explore the [security engineering portfolio](https://github.com/Rashmiranjan007/security-engineering-labs).
+- [Cloud security posture and Terraform baseline](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/cloud-security-posture)
+- [Kubernetes and container security baseline](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/kubernetes-security)
+- [AI application security lab](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/ai-security)
+- [Defensive AI red-team test catalogue](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/ai-red-team-toolkit)
+
+Explore the [complete security engineering portfolio](https://github.com/Rashmiranjan007/security-engineering-labs).
 
 ## Technology and tools
 
