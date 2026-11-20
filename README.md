@@ -36,7 +36,7 @@ Explore practical reference implementations and architecture notes across:
 - [Cloud security posture and Terraform baseline](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/cloud-security-posture)
 - [Kubernetes and container security baseline](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/kubernetes-security)
 - [AI application security lab](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/ai-security)
-- [Defensive AI red-team test catalogue](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/ai-red-team-toolkit)\n- [Enterprise AI security architecture](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/enterprise-ai-security-architecture)
+- [Defensive AI red-team test catalogue](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/ai-red-team-toolkit)\n- [Enterprise AI security architecture](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/enterprise-ai-security-architecture)\n- [Hands-on AI agent security lab (Ollama + Qdrant + FastAPI)](https://github.com/Rashmiranjan007/security-engineering-labs/tree/main/projects/ai-agent-security-lab)
 
 Explore the [complete security engineering portfolio](https://github.com/Rashmiranjan007/security-engineering-labs).
 
